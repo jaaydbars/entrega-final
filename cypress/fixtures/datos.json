@@ -1,0 +1,18 @@
+{
+  "primerProducto":
+  {
+      "productName": "White Pants",
+      "price": 20
+  },
+  "segundoProducto":
+  {
+      "productName": "Red Cap",
+      "price": 10
+  },
+  "checkout":
+  {
+      "name": "Jordi",
+      "lastName": "Modernel",
+      "creditCard": "1234567891234567" 
+  }
+}
